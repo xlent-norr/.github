@@ -1,5 +1,5 @@
 
-![XLENT logotyp](logo.svg)
+![XLENT logotyp](https://github.com/xlent-norr/.github/raw/main/profile/logo.svg)
 
 Detta repository innehåller både privata och publika repositories för XLENT Norr.
 
